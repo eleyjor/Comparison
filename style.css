@@ -6,17 +6,24 @@ body{
 article{
     font-family: 'Permanent Marker', cursive;
     background-color:blue;
-    
+    font-size:1.2em;
 
 }
 
 
 h1{
     font-family: "Lobster", cursive;
-}
+    font-size:1.2em;
+}    
 
 
 
 section{
     background-color: pink;
+}
+
+header{
+    font-family:"Acme", sans-serif;
+text-decoration: underline wavy blue;
+background-color:pink;
 }
