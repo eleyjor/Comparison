@@ -1,3 +1,4 @@
+<<<<<<< HEAD:style.css
 body{
     font-size:22px;
     background-color:orange;
@@ -26,4 +27,27 @@ header{
     font-family:"Acme", sans-serif;
 text-decoration: underline wavy blue;
 background-color:pink;
+=======
+body{
+    font-size:22px;
+    background-color:orange;
+}
+
+article{
+    font-family: 'Permanent Marker', cursive;
+    background-color:blue;
+    
+
+}
+
+
+h1{
+    font-family: "Lobster", cursive;
+}
+
+
+
+section{
+    background-color: pink;
+>>>>>>> 7a2d49382046df930deda90ace81b861728be47e:pages/style.css
 }
